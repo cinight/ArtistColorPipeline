@@ -1,3 +1,3 @@
 # ArtistColorPipeline
 
-Unity 2020.2
+Unity 2020.2 + URP
