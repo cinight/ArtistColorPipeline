@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: kakekuri_01
+  m_Name: kakegurui_01
   m_Shader: {fileID: -6465566751694194690, guid: 3a55904a4e923d0468b44b1cfdab720b, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
@@ -65,6 +65,6 @@ Material:
     - Color_291480b6f0da41019a0ae14de72ecf4d: {r: 1, g: 1, b: 1, a: 1}
     - Color_2c88806789a2437b96af4beb4441e40d: {r: 0.53733534, g: 0.6469147, b: 0.6509434, a: 1}
     - Color_9b21a3debf4949a38d5f095869c4e417: {r: 1, g: 0.16, b: 0, a: 1}
-    - Color_d7995af773d9485e9b041c7c2c2fe64e: {r: 3.482202, g: 0.15021265, b: 0.38235945, a: 1}
-    - Color_e323689f1a034dc6be27cf839b0e68a1: {r: 1, g: 0.6933962, b: 0.90540284, a: 1}
+    - Color_d7995af773d9485e9b041c7c2c2fe64e: {r: 3.482202, g: 0.13496377, b: 0, a: 1}
+    - Color_e323689f1a034dc6be27cf839b0e68a1: {r: 0.9150943, g: 0.5395603, b: 0.7607813, a: 1}
   m_BuildTextureStacks: []
