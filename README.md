@@ -2,6 +2,8 @@
 
 Unity 2020.2 + URP
 
+## Sample 1
+
 <img src="READMEimages/sa01.jpg">
 
 Character reference: [Spirited Away](https://en.wikipedia.org/wiki/Spirited_Away)
@@ -11,16 +13,18 @@ Character reference: [Spirited Away](https://en.wikipedia.org/wiki/Spirited_Away
 <img src="Assets/Textures/sa_sketch.png" width="100"><img src="Assets/Textures/sa_basecolor.png" width="100"><img src="Assets/Textures/sa_2lvl.png" width="100">
 <img src="Assets/Textures/sa_ao.png" width="100"><img src="Assets/Textures/sa_highlight.png" width="100"><img src="Assets/Textures/sa_rim.png" width="100">
 
+## Sample 2
 
-<img src="READMEimages/kakegurui01.jpg" height="500">
+<img src="READMEimages/kakegurui01.jpg">
 
 Character reference: [Kakegurui](https://www.google.com/search?q=kakegurui+itsuki)
 
 <img src="Assets/Textures/kakegurui_sketch.png" width="100"><img src="Assets/Textures/kakegurui_albedo.png" width="100"><img src="Assets/Textures/kakegurui_2lvl.png" width="100">
 <img src="Assets/Textures/kakegurui_ao.png" width="100"><img src="Assets/Textures/kakegurui_highlight.png" width="100"><img src="Assets/Textures/kakegurui_rim.png" width="100">
 
+## Sample 3
 
-<img src="READMEimages/kht01.jpg" height="500">
+<img src="READMEimages/kht01.jpg">
 
 Style reference: [Kim Hyung Tae](http://wallpoper.com/wallpaper/hyung-tae-kim-422469)
 
