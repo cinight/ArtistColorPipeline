@@ -4,7 +4,7 @@ Unity 2020.2 + URP
 
 <img src="READMEimages/sa01.jpg">
 
-Art reference: [Spirited Away](https://en.wikipedia.org/wiki/Spirited_Away)
+Character reference: [Spirited Away](https://en.wikipedia.org/wiki/Spirited_Away)
 
 [![Watch the video](https://img.youtube.com/vi/MJeC0mpQZxc/hqdefault.jpg)](https://youtu.be/MJeC0mpQZxc)
 
@@ -14,7 +14,15 @@ Art reference: [Spirited Away](https://en.wikipedia.org/wiki/Spirited_Away)
 
 <img src="READMEimages/kakegurui01.jpg" height="500">
 
-Art reference: [Kakegurui](https://www.google.com/search?q=kakegurui+itsuki)
+Character reference: [Kakegurui](https://www.google.com/search?q=kakegurui+itsuki)
 
 <img src="Assets/Textures/kakegurui_sketch.png" width="100"><img src="Assets/Textures/kakegurui_albedo.png" width="100"><img src="Assets/Textures/kakegurui_2lvl.png" width="100">
 <img src="Assets/Textures/kakegurui_ao.png" width="100"><img src="Assets/Textures/kakegurui_highlight.png" width="100"><img src="Assets/Textures/kakegurui_rim.png" width="100">
+
+
+<img src="READMEimages/kht01.jpg" height="500">
+
+Style reference: [Kim Hyung Tae](http://wallpoper.com/wallpaper/hyung-tae-kim-422469)
+
+<img src="Assets/Textures/kht_sketch.png" width="100"><img src="Assets/Textures/kht_albedo.png" width="100"><img src="Assets/Textures/kht_2lvl.png" width="100">
+<img src="Assets/Textures/kht_ao.png" width="100"><img src="Assets/Textures/kht_highlight.png" width="100"><img src="Assets/Textures/kht_rim.png" width="100">

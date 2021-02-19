@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: kht_01
-  m_Shader: {fileID: -6465566751694194690, guid: 3a55904a4e923d0468b44b1cfdab720b, type: 3}
+  m_Name: kht_04
+  m_Shader: {fileID: -6465566751694194690, guid: 735a0839a62b9f349a86605f6a30ab59, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -60,11 +60,13 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - Vector1_64fb60416b564c08a99103aee4310fdd: 0.487
+    - Vector1_64fb60416b564c08a99103aee4310fdd: 0.82
+    - Vector1_c220db6622614e14b2a3ae448ce9f44d: 1.59
     m_Colors:
     - Color_291480b6f0da41019a0ae14de72ecf4d: {r: 1, g: 1, b: 1, a: 1}
     - Color_2c88806789a2437b96af4beb4441e40d: {r: 0.53733534, g: 0.6469147, b: 0.6509434, a: 1}
+    - Color_6fea9ad41c50477dbbc55ebe748fbe37: {r: 0.57254905, g: 0.4431373, b: 0.48235297, a: 1}
     - Color_9b21a3debf4949a38d5f095869c4e417: {r: 1, g: 0.16, b: 0, a: 1}
-    - Color_d7995af773d9485e9b041c7c2c2fe64e: {r: 2.1185474, g: 0.18856181, b: 0, a: 1}
-    - Color_e323689f1a034dc6be27cf839b0e68a1: {r: 0.9339623, g: 0.9339623, b: 0.9339623, a: 1}
+    - Color_d7995af773d9485e9b041c7c2c2fe64e: {r: 0.7578583, g: 0.6765386, b: 0.51119685, a: 1}
+    - Color_e323689f1a034dc6be27cf839b0e68a1: {r: 0.6886792, g: 0.620461, b: 0.6247246, a: 1}
   m_BuildTextureStacks: []
