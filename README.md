@@ -30,3 +30,10 @@ Style reference: [Kim Hyung Tae](http://wallpoper.com/wallpaper/hyung-tae-kim-42
 
 <img src="Assets/Textures/kht_sketch.png" width="100"><img src="Assets/Textures/kht_albedo.png" width="100"><img src="Assets/Textures/kht_2lvl.png" width="100">
 <img src="Assets/Textures/kht_ao.png" width="100"><img src="Assets/Textures/kht_highlight.png" width="100"><img src="Assets/Textures/kht_rim.png" width="100">
+
+## Sample 4
+
+<img src="READMEimages/pink01.jpg">
+
+<img src="Assets/Textures/pink_sketch.png" width="100"><img src="Assets/Textures/pink_albedo.png" width="100"><img src="Assets/Textures/pink_2lvl.png" width="100">
+<img src="Assets/Textures/pink_ao.png" width="100"><img src="Assets/Textures/pink_highlight.png" width="100">
