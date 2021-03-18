@@ -33,7 +33,7 @@ Style reference: [Kim Hyung Tae](http://wallpoper.com/wallpaper/hyung-tae-kim-42
 
 ## Sample 4
 
-<img src="READMEimages/pink01.jpg">
+<img src="READMEimages/pink02.jpg">
 
 <img src="Assets/Textures/pink_sketch.png" width="100"><img src="Assets/Textures/pink_albedo.png" width="100"><img src="Assets/Textures/pink_2lvl.png" width="100">
 <img src="Assets/Textures/pink_ao.png" width="100"><img src="Assets/Textures/pink_highlight.png" width="100">

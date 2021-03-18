@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pink_03
+  m_Name: pink_03b
   m_Shader: {fileID: -6465566751694194690, guid: f24f153702edc084c8f4fd0d93d60e54, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
@@ -24,7 +24,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - Texture2D_1deaeb6b56644aff9f17bcd6dc4385d2:
-        m_Texture: {fileID: 2800000, guid: ad746ffaa5aa5409e8ecca46583bf3b0, type: 3}
+        m_Texture: {fileID: 2800000, guid: 7056a61377a81428fab4a8aed12043cc, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - Texture2D_847d6a3892e74bc2b6383feec0b71dbc:
@@ -60,11 +60,11 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - Vector1_64fb60416b564c08a99103aee4310fdd: 0.33
+    - Vector1_64fb60416b564c08a99103aee4310fdd: 0.198
     m_Colors:
     - Color_291480b6f0da41019a0ae14de72ecf4d: {r: 1, g: 1, b: 1, a: 1}
     - Color_2c88806789a2437b96af4beb4441e40d: {r: 0.53733534, g: 0.6469147, b: 0.6509434, a: 1}
     - Color_9b21a3debf4949a38d5f095869c4e417: {r: 1, g: 0.16, b: 0, a: 1}
-    - Color_d7995af773d9485e9b041c7c2c2fe64e: {r: 12.844469, g: 2.2864501, b: 2.2864501, a: 1}
-    - Color_e323689f1a034dc6be27cf839b0e68a1: {r: 1, g: 0.8632076, b: 0.9001875, a: 1}
+    - Color_d7995af773d9485e9b041c7c2c2fe64e: {r: 3.3377275, g: 1.3412298, b: 1.3067517, a: 1}
+    - Color_e323689f1a034dc6be27cf839b0e68a1: {r: 0.8773585, g: 0.66532207, b: 0.6000801, a: 1}
   m_BuildTextureStacks: []
